@@ -6,6 +6,6 @@ start_time = time.time()
 new_str = input()
 end_time = time.time()
 
-total_time = end_time - start_time
+total_time = end_time - start_time      # calculates the total time the user took to type
 
 print(total_time)
